@@ -52,7 +52,7 @@ The evaluation is done using the following metrics:
 
 Based on the analysis, the Random Forest algorithm provided the best performance for predicting if a breast cancer tumor is malignant or benign, with an accuracy of 0.96. 
 
-## How to Use
+## How to Use 
 
 To use this project, you can clone the repository and run the `Breast_cancer2.ipynb` notebook using Jupyter or any other compatible notebook application.
 
