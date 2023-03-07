@@ -1,6 +1,6 @@
 
 
-# Breast Cancer A-Z
+# Automated Classification of Breast Cancer Tumors Using Machine Learning Techniques
 
 Breast cancer is a deadly disease that affects millions of women worldwide. Early detection is crucial for better treatment outcomes. The goal of this project is to analyze a dataset of breast cancer patients to predict if the cancer is malignant or benign.
 
