@@ -1,6 +1,8 @@
 
 
-# Automated Classification of Breast Cancer Tumors Using Machine Learning Techniques
+# Automated Classification of Breast Cancer Tumors Using Machine Learning Techniques.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repository>/blob/main/<path>/<to>/<notebook>.ipynb)
+
 
 Breast cancer is a deadly disease that affects millions of women worldwide. Early detection is crucial for better treatment outcomes. The goal of this project is to analyze a dataset of breast cancer patients to predict if the cancer is malignant or benign.
 
