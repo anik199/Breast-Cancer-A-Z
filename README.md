@@ -34,12 +34,8 @@ The notebook `Breast_cancer2.ipynb` contains the analysis of the dataset. The an
 - Conclusion
 
 The modeling is done using the following algorithms:
-
-- Logistic Regression
-- K-Nearest Neighbors
-- Decision Tree
 - Random Forest
-- Support Vector Machine
+- XGBoost (eXtreme Gradient Boosting)
 
 The evaluation is done using the following metrics:
 
@@ -50,7 +46,7 @@ The evaluation is done using the following metrics:
 
 ## Conclusion
 
-Based on the analysis, the Random Forest algorithm provided the best performance for predicting if a breast cancer tumor is malignant or benign, with an accuracy of 0.96. 
+Based on the analysis, the XGBoost algorithm provided the best performance for predicting if a breast cancer tumor is malignant or benign, with an accuracy of 0.98. 
 
 ## How to Use 
 
